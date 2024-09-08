@@ -7,6 +7,7 @@ The application is deployed on Streamlit and can be accessed live [here](https:/
 ## Features
 
 - **Personalized Movie Recommendations**: Suggests movies based on the user's input or preferences.
+- **TMDB Dataset**: Utilizes the TMDB dataset for a rich collection of movie data, including genres, ratings, and other metadata.
 - **Machine Learning Models**: Uses algorithms like collaborative filtering, content-based filtering, and cosine similarity to recommend movies.
 - **Interactive User Interface**: Deployed using Streamlit for a smooth and intuitive UI experience.
 - **Real-time Suggestions**: Recommends movies in real-time as users input their preferences.
